@@ -1,1 +1,2 @@
 Shailesh: What is your favorite git command? 
+Tanya: My favorite git command is commit!
